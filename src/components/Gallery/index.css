@@ -1,0 +1,23 @@
+/* Write your code here. */
+.bg-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding: 30px 100px 30px 100px;
+}
+.title {
+  color: #1e293b;
+  font-family: Roboto;
+  margin-bottom: 0;
+}
+.description {
+  color: #64748b;
+  font-family: Roboto;
+}
+.thumbnails-list {
+  display: flex;
+}
+.image {
+  width: 800px;
+  height: 440px;
+}
